@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arduino
+*.elf
+*.hex
+*.bin
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# PlatformIO
+.pio/
+
+# Compiled files
+*.o
+*.a
+*.so
+
+# Libraries (if using git submodules or manual management)
+# lib/
+
+# Logs
+*.log
